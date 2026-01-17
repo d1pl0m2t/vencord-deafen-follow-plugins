@@ -81,6 +81,9 @@ This repository contains private plugins for **Vencord**, which add new features
   sudo pnpm inject
   ```
 
+## WARNING!!
+**Before running the pnpm inject command, create a directory at the path /Vencord/src/ named userplugins and move the downloaded Follow folder and the fakeVoiceOption.ts file into it.**
+
   ### 4. Important Notes
 
    ***Before using the plugins, make sure you have Discord or Discord Canary installed. These are required for the patching process.***
